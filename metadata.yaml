@@ -1,4 +1,8 @@
 _repo: The-Dark-Frigate_50598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50598-h/images/cover.jpg
 creator:
   author:
     agent_name: Hawes, Charles Boardman
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '3120'
     url: http://www.gutenberg.org/2009/agents/3120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50598#The-Dark-Frigate
 gutenberg_issued: '2015-12-03'
 gutenberg_type: Text
 identifiers:
